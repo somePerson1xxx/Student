@@ -1,0 +1,4 @@
+/.idea/*
+/out/*
+/com/**/*.iml
+/**/*iml

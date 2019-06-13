@@ -1,0 +1,4 @@
+.idea/* -diff
+out/* -diff
+com/**/*.iml -diff
+/**/*iml
