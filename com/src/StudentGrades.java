@@ -8,5 +8,6 @@
    public StudentGrades(int math,int phys,int chem){
        this.math=math;
        this.phys=phys;
+       this.chem=chem;
    }
  }
