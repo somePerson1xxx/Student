@@ -8,5 +8,9 @@
    public StudentGrades(int math,int phys,int chem){
        this.math=math;
        this.phys=phys;
+<<<<<<< HEAD
+=======
+       this.chem=chem + 90;
+>>>>>>> origin/test1
    }
  }
