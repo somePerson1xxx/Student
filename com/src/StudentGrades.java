@@ -11,4 +11,7 @@
        this.chem=chem;
        this.eng=eng;
    }
+   public int getMath(){
+       return math;
+   }
  }
